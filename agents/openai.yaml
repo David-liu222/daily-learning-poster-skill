@@ -1,0 +1,4 @@
+interface:
+  display_name: "每日一学海报"
+  short_description: "严格按力量发展集团规范制作每日一学与节日宣传海报 PNG 文件"
+  default_prompt: "按每日一学海报规范，为指定月份或日期制作 PNG 海报。"
